@@ -40900,7 +40900,7 @@ s=s.w
 if(s==null)s=A.aX()
 A.kH(q.b/s)
 A.kH(20*$.c().gB())
-return new A.nl(b,"Flutter Demo",A.ajd(null,B.aZ,null),!1,null)},
+return new A.nl(b,"BmpX",A.ajd(null,B.aZ,null),!1,null)},
 $S:313}
 A.wv.prototype={
 ai(){return new A.N1(B.q)}}
